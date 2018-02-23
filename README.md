@@ -1,2 +1,1 @@
-# gb-centos7
-CentOS Docker image
+# CentOS 7 Docker image
