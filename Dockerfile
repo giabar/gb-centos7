@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:7.5.1804
 LABEL maintainer="GiaBar <giabar@giabar.com>"
 RUN yum clean all &&\
     rm -rf /var/cache/yum &&\
