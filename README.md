@@ -2,8 +2,8 @@
 
 Yum Packages:
 
-deltarpm
-epel-release
+*deltarpm
+*epel-release
 nano
 wget
 which
